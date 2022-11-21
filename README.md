@@ -12,6 +12,9 @@ With over 8 years of experience in the financial, Payroll/ Analytical sector, I 
 * 🤝  I'm open to collaborating on Data Visualization using Power BI , Data Cleaning with MS Excel & MS SQL
 * ⚡  I love to go for hikes and spend time in nature to appreciate Beautiful British Columbia's mountains
 
+<a href="https://www.github.com/sabamall" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/sabamall?logo=github&style=for-the-badge&color=000000&labelColor=ffffff" /></a>
+
 ### Skills
 
 
@@ -29,7 +32,11 @@ With over 8 years of experience in the financial, Payroll/ Analytical sector, I 
 
 ### Badges
 
-<a href="https://github.com/sabamall" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabamall&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/sabamall"><img src="https://github-readme-stats.vercel.app/api?username=sabamall&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" alt="sabamall's GitHub stats" /></a>
+
+<a href="http://www.github.com/sabamall"><img src="https://activity-graph.herokuapp.com/graph?username=sabamall&bg_color=ffffff&color=000000&line=000000&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <b>Top Repositories</b>
 
