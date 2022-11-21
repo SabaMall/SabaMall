@@ -13,7 +13,7 @@ With over 8 years of experience in the financial, Payroll/ Analytical sector, I 
 * ⚡  I love to go for hikes and spend time in nature to appreciate Beautiful British Columbia's mountains
 
 <a href="https://www.github.com/sabamall" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/sabamall?logo=github&style=for-the-badge&color=000000&labelColor=ffffff" /></a>
+src="https://img.shields.io/github/followers/sabamall?logo=github&style=for-the-badge&color=facc15&labelColor=000000" /></a>
 
 ### Skills
 
@@ -34,9 +34,9 @@ src="https://img.shields.io/github/followers/sabamall?logo=github&style=for-the-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/sabamall"><img src="https://github-readme-stats.vercel.app/api?username=sabamall&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" alt="sabamall's GitHub stats" /></a>
+<a href="http://www.github.com/sabamall"><img src="https://github-readme-stats.vercel.app/api?username=sabamall&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="sabamall's GitHub stats" /></a>
 
-<a href="http://www.github.com/sabamall"><img src="https://activity-graph.herokuapp.com/graph?username=sabamall&bg_color=ffffff&color=000000&line=000000&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/sabamall"><img src="https://activity-graph.herokuapp.com/graph?username=sabamall&bg_color=000000&color=ffffff&line=facc15&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <b>Top Repositories</b>
 
